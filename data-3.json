@@ -1,20 +1,20 @@
 [
 {
-    "name": "Cruise01",
-    "to": "Mediterranean",
-    "price": "£499",
-    "date": "01/02/2018"
+    "name": "Cruise07",
+    "to": "Africa",
+    "price": "£450",
+    "date": "06/05/2018"
   },
   {
-    "name": "Cruise02",
-    "to": "Alaska",
-    "price": "£599",
+    "name": "Cruise08",
+    "to": "Canada",
+    "price": "£400",
     "date": "08/06/2018"
   },
   {
-    "name": "Cruise03",
+    "name": "Cruise09",
     "to": "Caribbean",
     "price": "£599",
-    "date": "19/07/2018"
+    "date": "16/07/2018"
   }
   ]
