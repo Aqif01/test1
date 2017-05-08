@@ -1,0 +1,54 @@
+{
+    "name": "Cruise01",
+    "to": "Mediterranean",
+    "price": "£499",
+    "date": "01/02/2018"
+  },
+  {
+    "name": "Cruise02",
+    "to": "Alaska",
+    "price": "£599",
+    "date": "08/06/2018"
+  },
+  {
+    "name": "Cruise03",
+    "to": "Caribbean",
+    "price": "£599",
+    "date": "19/07/2018"
+  },
+  {
+    "name": "Cruise04",
+    "to": "Mediterranean",
+    "price": "£499",
+    "date": "01/07/2018"
+  },
+  {
+    "name": "Cruise05",
+    "to": "Mediterranean",
+    "price": "£499",
+    "date": "06/04/2018"
+  },
+  {
+    "name": "Cruise06",
+    "to": "Mediterranean",
+    "price": "£499",
+    "date": "01/02/2018"
+  },
+  {
+    "name": "Cruise07",
+    "to": "Alaska",
+    "price": "£699",
+    "date": "05/03/2018"
+  },
+  {
+    "name": "Cruise08",
+    "to": "Africa",
+    "price": "£449",
+    "date": "05/06/2018"
+  },
+  {
+    "name": "Cruise09",
+    "to": "Canada",
+    "price": "£549",
+    "date": "06/07/2018"
+  },
