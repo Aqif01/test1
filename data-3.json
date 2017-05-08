@@ -1,3 +1,4 @@
+
 [
 {
     "name": "Cruise07",
@@ -8,13 +9,13 @@
   {
     "name": "Cruise08",
     "to": "Africa",
-    "price": "£399",
-    "date": "06/04/2018"
+    "price": "£300",
+    "date": "07/08/2018"
   },
   {
     "name": "Cruise09",
     "to": "Canada",
     "price": "£599",
-    "date": "01/02/2018"
+    "date": "16/07/2018"
   }
-]
+  ]
